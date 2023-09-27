@@ -9,6 +9,26 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
+### Introduction
+1. My name is **Pritam Gajbhiye**.
+2. I use He/Him as a pronoun.
+3. I am a first year *MACSS Student*.
+4. My research interest lies in ***Social Media Analytics*** mainly focusinhg on *Political Polarization on social media platforms and its intersection with fake news, misinformation and disinformation*.
+![Example of Social Network!](/assets/Capture.PNG)
+5. A great book to read for statistical learning 
+[***An Introduction to Statistical Learning with application in R\Python***](https://www.statlearning.com/)
+
+### Git/Github workflow
+**Steps needed to complete homework**
+1. Accept the homework on github
+2. Clone the homework respository on your local machine by using git clone command on terminal
+3. Make changes to the readme file.
+4. Add changes to file by running git add filename command on terminal
+5. Commit changes to the repository by using git coommit -m"Some commit message" command
+6. Finally push the changes to repository by using git push command
+
+Markdown file is really important as it gives the deatils about the repository and its contents. If a repository has a program or conatins any script file, we can mention the details about how to use that file\package on your local machine. This homeworks helped me to learn about how we can add images to the markdown file.
+
 
 
 ## 📚  Resources 
