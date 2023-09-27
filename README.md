@@ -14,7 +14,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 2. I use He/Him as a pronoun.
 3. I am a first year *MACSS Student*.
 4. My research interest lies in ***Social Media Analytics*** mainly focusinhg on *Political Polarization on social media platforms and its intersection with fake news, misinformation and disinformation*.
-![Example of Social Network!](/assets/Capture.PNG)
+![Example of Social Network](Capture.PNG)
 5. A great book to read for statistical learning 
 [***An Introduction to Statistical Learning with application in R\Python***](https://www.statlearning.com/)
 
